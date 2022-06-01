@@ -5,5 +5,5 @@ attributes. Clustering methods are an Unsupervised Machine Learning method that 
 The data set contains indicators of social and economic development such as gdpp, life expectancy, income, and fertility rate. 
 Human Development Index (HDI) is a measure of socioeconomic development that is calculated from other factors. 
 The three components of HDI are life expectancy, education index, and GNI index. This composite indicator is used to categorize 
-countries as either developed with HDI greater than 0.8 or developing with HDI less than 0.8. This notebook will show 
+countries as either developed with HDI greater than 0.8 or developing with HDI less than 0.8. The notebook will show 
 different clustering methods and also demonstrate if clustering will improve the results of classification methods.
